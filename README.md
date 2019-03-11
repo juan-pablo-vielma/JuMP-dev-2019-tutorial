@@ -51,7 +51,7 @@ You can then navigate to the location of where you uncompressed the `JuMP-dev-20
 
 To get started on the tutorials, click on the first notebook entitled `Introduction to Julia-JuMP.ipynb`.
 
-### Using the Default Course Packages
+### Using the Default Tutorial Packages
 
 The files `Project.toml` and `Manifest.toml` contain the information about versions of the default tutorial packages that we know work well. These packages can be _activated_ by running the following code in any Jupyter notebook in the `JuMP-dev-2019-tutorial` folder:
 ```julia
