@@ -19,7 +19,7 @@ To get the tutorial materials [download this zip file](https://github.com/juan-p
 
 Now open Julia by clicking on the Julia icon you installed. Once open, you should be faced with the Julia *REPL* (Julia's interactive command prompt) that looks like this:
 
-![Julia REPL](figures/repl.png)
+![Julia REPL](img/repl.png)
 
 ### Install Jupyter
 
@@ -44,10 +44,10 @@ IJulia.notebook()
 
 If all goes well, a browser window will open that looks like this:
 
-![jupyer_notebook](figures/jupyter_root.png)
+![jupyer_notebook](img/jupyter_root.png)
 
 You can then navigate to the location of where you uncompressed the `JuMP-dev-2019-tutorial` folder and you should see something like this:
-![jupyer_notebook](figures/jupyter.png)
+![jupyer_notebook](img/jupyter.png)
 
 To get started on the tutorials, click on the first notebook entitled `Introduction to Julia-JuMP.ipynb`.
 
